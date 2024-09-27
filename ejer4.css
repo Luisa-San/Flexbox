@@ -1,0 +1,13 @@
+div {
+    background-color: black;
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    color: white;
+    font-size: x-large;
+    background-color: #0078A6;
+}

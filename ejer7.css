@@ -1,0 +1,17 @@
+div {
+    background-color: black;
+    display: flex;
+    height: 400px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: space-evenly;
+    
+   
+}
+.caja {
+    height: 150px;
+    width: 150px;
+    background-color:#0078A6;
+    color: white;
+    font-size: x-large;
+}

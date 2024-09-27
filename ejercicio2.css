@@ -1,0 +1,24 @@
+div    {
+    background-color: black;
+    display: flex;
+    height: 300px;
+    flex-direction: column;
+   
+}
+.caja {
+color: white;
+    margin: 0;
+    font-size: x-large;
+}
+.c1 {
+    background-color:#0078A6 ;
+    
+}
+.c2 {
+    background-color: #0084b0 ;
+  
+}
+.c3 {
+    background-color: #008CC1 ;
+    
+}

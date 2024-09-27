@@ -1,0 +1,10 @@
+.contenedor {
+    flex-direction: row;
+    display: flex;
+    
+}
+.c1,.c2,.c3 {
+    background-color:lightgray;
+    border: 1px solid black;
+    text-align: center;
+}
